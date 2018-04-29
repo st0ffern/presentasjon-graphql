@@ -1,0 +1,15 @@
+Rekkefølge for presentasjon:
+
+- Struktur på skjema (GraphQLSchema, GraphQLObject)
+- Resolve
+- Sette opp med express server
+- GraphiQL
+- Args
+- Hente fra API og sette opp relasjoner
+- Dataloader
+
+- Mutations
+- Standard
+- Input type
+
+- Relay?
